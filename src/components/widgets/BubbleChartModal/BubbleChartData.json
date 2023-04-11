@@ -1,0 +1,64 @@
+{
+    "Sheet1": [
+      {
+        "x": "Dec",
+        "amount": 846.18,
+        "category": "Team",
+        "y": 463
+      },
+      {
+        "x": "Jul",
+        "amount": 631.57,
+        "category": "Users",
+        "y": 554
+      },
+      {
+        "x": "Mar",
+        "amount": 716,
+        "category": "Users",
+        "y": 597
+      },
+      {
+        "x": "Jan",
+        "amount": 220.18,
+        "category": "Users",
+        "y": 564
+      },
+      {
+        "x": "Apr",
+        "amount": 379.96,
+        "category": "Team",
+        "y": 553
+      },
+      {
+        "x": "Jul",
+        "amount": 458.11,
+        "category": "Users",
+        "y": 534
+      },
+      {
+        "x": "Apr",
+        "amount": 832.69,
+        "category": "Team",
+        "y": 419
+      },
+      {
+        "x": "Mar",
+        "amount": 667.22,
+        "category": "Sales",
+        "y": 412
+      },
+      {
+        "x": "Apr",
+        "amount": 544.62,
+        "category": "Users",
+        "y": 414
+      },
+      {
+        "x": "Sep",
+        "amount": 635.61,
+        "category": "Sales",
+        "y": 567
+      }
+    ]
+  }

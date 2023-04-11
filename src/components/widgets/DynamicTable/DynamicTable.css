@@ -1,0 +1,25 @@
+.dynamicPie {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.tableGrid {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: 50% 0.7fr 40%;
+    row-gap: 0.8vh;
+}
+
+.lineGraph {
+    height: 24px;
+    width: 100%;
+}
+
+.changeIndicator {
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 1vh;
+    margin: none;
+}

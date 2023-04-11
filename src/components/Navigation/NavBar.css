@@ -1,0 +1,123 @@
+/*  Navigation bar body*/
+
+nav {
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    justify-content: space-around;
+    background-color: snow;
+    color: #8484A0;
+    position: fixed;
+    top: 0px;
+    z-index: 10;
+}
+
+/* Title */
+
+nav .title {
+    display: flex;
+    align-items: center;
+    gap: 1vw;
+}
+
+div.titleHead {
+    color: #000000;
+    font-weight: 400;
+    font-family: 'Archivo', sans-serif;
+
+}
+
+/*  Search Bar*/
+
+div.searchBar {
+    width: 27%;
+    height: 30px;
+    left: 0px;
+    top: 0px;
+
+    background: #EEF0FA;
+    border-radius: 8px;
+    display: flex;
+}
+
+div.searchBar input {
+    background-color: inherit;
+    border: none;
+    height: 80%;
+    width: 85%;
+    border-radius: 8px;
+    padding: 0.5%;
+    color: #A1A3D4;
+    padding-left: 5%;
+}
+
+div.searchBar input:focus {
+    border: none;
+    outline: none;
+}
+
+div.searchBar button {
+    background-color: inherit;
+    border: none;
+    height: 100%;
+    width: 5%;
+    border-radius: 8px;
+    padding: 0;
+    color: #A1A3D4;
+}
+
+/*  Route tabs*/
+
+div.routeTab {
+    height: 100%;
+    margin: 0;
+}
+
+div.routeTab ul {
+    display: flex;
+    height: 100%;
+    width: 27vw;
+    text-decoration: none;
+    list-style: none;
+    align-items: stretch;
+    margin: 0;
+    justify-content: space-between;
+}
+
+
+div.routeTab ul li {
+    display: flex;
+    text-align: center;
+}
+
+
+div.routeTab ul li a {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    color: #8484A0;
+    font-weight: 400;
+    font-family: "Poppins", sans-serif;
+}
+
+
+div.routeTab ul li.active {
+    border-bottom: solid 2px #5756B3;
+    ;
+}
+
+
+div.routeTab ul li:hover {
+    border-bottom: solid 1px #5756B3;
+}
+
+/* Icons */
+
+nav .icons {
+    display: flex;
+    justify-content: space-between;
+    width: 4vw;
+}
