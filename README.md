@@ -22,6 +22,11 @@ The project shows a template which is able to help in data visualization by help
 
 6. After that I completed the bubble map and setup its cordinates. Along with that the step invovled tracing the shadow options and gradients in the svgs which were given in the file. After that I completed the cards.
 
-7. Completion: After following these, I focused on skiming through whole project. Added a prompt to go to overview section. I also 
+7. Completion: After following these, I focused on skiming through whole project. Added a prompt to go to overview section. I also checked the working and thus completed the project.
+
+
+My approach:
+
+The task was challenging and also allowed me to explore various new libraries and technologies. I learned various things while also working on it. While I looked into it, I searched for optimal libraries and learned while working on it. This led me to work on creation of project as well as learn them. While working I often stumbled on some dead end but still worked through various ways.
 
 Project made by Tarun Garg
